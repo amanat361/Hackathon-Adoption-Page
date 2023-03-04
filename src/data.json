@@ -1,0 +1,248 @@
+[
+  {
+    "name": "Charles",
+    "breed": "Corgi",
+    "image": "https://i.pinimg.com/564x/3a/bd/98/3abd98a01edbba1ac48de7e505e53bab.jpg",
+    "age": "3"
+  },
+  {
+    "name": "Yoyo",
+    "breed": "Yorkie",
+    "image": "https://highlandcanine.com/wp-content/uploads/2021/05/yorkshire-terrier-sitting-on-decking.jpg",
+    "age": "3"
+  },
+  {
+    "name": "Sock",
+    "breed": "Samoyed",
+    "image": "https://media-be.chewy.com/wp-content/uploads/2021/06/01091708/Samoyed-FeaturedImage.jpg",
+    "age": "10"
+  },
+	{
+    "name": "Hulk",
+    "breed": "Husky",
+    "image": "https://images.pexels.com/photos/3478875/pexels-photo-3478875.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "age": "5"
+  },
+		{
+    "name": "Peachers",
+    "breed": "Mini Poodle",
+    "image": "https://i.pinimg.com/736x/68/f1/ba/68f1ba8620ccca633345aa51cc432539.jpg",
+    "age": "4"
+  },
+    {
+    "name": "Daisy",
+    "breed": "Maltese",
+    "image": "https://www.animalfunfacts.net/images/stories/pets/dogs/maltese_dog_cute_l.jpg",
+    "age": "6"
+  },
+  	{
+    "name": "Pebbles",
+    "breed": "Pomeranian",
+    "image": "https://post.bark.co/wp-content/uploads/2022/05/iStock-1276949137-1024x684.jpg",
+    "age": "5"
+  },
+    {
+    "name": "Buck",
+    "breed": "Bulldog",
+    "image": "https://cdn.shopify.com/s/files/1/0266/5817/7121/files/iStock-1145905884.jpg?v=1651459598",
+    "age": "11"
+  },
+    {
+    "name": "Garfield",
+    "breed": "Corgi",
+    "image": "https://www.thefarmersdog.com/digest/wp-content/uploads/2021/12/corgi-top-1400x871.jpg",
+    "age": "9"
+  }, 
+    {
+    "name": "Gizmo",
+    "breed": "Golden Retriever",
+    "image": "https://thehappypuppysite.com/wp-content/uploads/2018/09/Golden-Retriever-Puppy-Finding-And-Raising-Your-New-Friend-HP-long.jpg",
+    "age": "4"
+  },
+    {
+    "name": "Yolk",
+    "breed": "Yorkie",
+    "image": "https://www.allthingsdogs.com/wp-content/uploads/2019/04/Teacup-Yorkie-What-To-Know-Before-Buying-Cover.jpg",
+    "age": "2"
+  },
+    {
+    "name": "Salt",
+    "breed": "Samoyed",
+    "image": "https://i2.wp.com/puppytoob.com/wp-content/uploads/2017/11/Samoyed.jpg?fit=672%2C415&ssl=1",
+    "age": "5"
+  },
+    {
+    "name": "Chickpea",
+    "breed": "Chihuahua",
+    "image": "https://d.newsweek.com/en/full/2100919/chihuahua-puppy-pictured-outdoors.jpg?w=790&f=09ffc204f7f3b438486b5153a6e4575e",
+    "age": "3"
+  },    
+    {
+    "name": "Chalk",
+    "breed": "Corgi",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnxLzlOmOGQo2TeCRrPnxTwuCftZSC81M7A&usqp=CAU",
+    "age": "11"
+  },    
+    {
+    "name": "Cheese",
+    "breed": "Shiba Inu",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhlgjG2W2QvTbnfCE6g8GYaOW45nYWsjAxvA&usqp=CAU",
+    "age": "9"
+  },
+    {
+    "name": "Puck",
+    "breed": "Mini Poodle",
+    "image": "https://www.keystonepuppies.com/wp-content/uploads/2023/02/Rosie-Mini-Poodle-1-001-480x394.jpg",
+    "age": "7"
+  },
+    {
+    "name": "Golf",
+    "breed": "German Shepherd",
+    "image": "https://marshallspetzone.com/blog/wp-content/uploads/2016/10/df5df5d55.jpg",
+    "age": "5"
+  },
+    {
+    "name": "Fog",
+    "breed": "Labrador Retriever",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/labrador-puppy-royalty-free-image-1626252338.jpg?crop=0.667xw:1.00xh;0.173xw,0&resize=640:*",
+    "age": "2"
+  },
+    {
+    "name": "Buzz Lightyear",
+    "breed": "Bulldog",
+    "image": "https://www.metlifepetinsurance.com/content/dam/metlifecom/us/metlifepetinsurance/images/blog/Thumbnails/american-bulldog.webp",
+    "age": "12"
+  },
+    {
+    "name": "Snoopy",
+    "breed": "Shih Tzu",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrGqinAOxLf4pUinzAv80IhuQwPBoTJDtQPQ&usqp=CAU",
+    "age": "12"
+  },
+    {
+    "name": "SpongeBob",
+    "breed": "Shiba",
+    "image": "https://www.animalfunfacts.net/images/stories/pets/dogs/shiba_inu_beauty_l.jpg",
+    "age": "12"
+  },
+    {
+    "name": "Cat",
+    "breed": "Chihuahua",
+    "image": "https://centralparkpuppies.com/wp-content/uploads/2021/09/chihuahua-dog.jpg",
+    "age": "5"
+  },
+    {
+    "name": "Scrappy Doo",
+    "breed": "Great Dane",
+    "image": "https://blog.myollie.com/wp-content/uploads/2020/11/spotted-adult-great-dane-stands-in-lush-forested-area-1.jpg",
+    "age": "14"
+  },
+    {
+    "name": "Clifford",
+    "breed": "Golden Retriever",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2020%2F08%2F16%2Fgolden-retriever-177213599-2000.jpg",
+    "age": "10"
+  },
+    {
+    "name": "PomPomPurin",
+    "breed": "Pomeranian",
+    "image": "https://www.purina.co.uk/sites/default/files/styles/square_medium_440x440/public/2022-07/Pomeranian1.jpg?h=60f40036&itok=o-Gng8D3",
+    "age": "6"
+  },
+    {
+    "name": "Giraffe",
+    "breed": "German Sheperd",
+    "image": "https://a-z-animals.com/media/2022/11/shutterstock_245621623.jpg",
+    "age": "16"
+  },
+    {
+    "name": "Butch",
+    "breed": "Bulldog",
+    "image": "https://i.pinimg.com/originals/fc/c1/53/fcc15388099a3c573d604b773d8f41da.jpg",
+    "age": "11"
+  },
+    {
+    "name": "Hundley",
+    "breed": "Dachshund",
+    "image": "https://cdn.britannica.com/13/234213-050-45F47984/dachshund-dog.jpg",
+    "age": "9"
+  },
+    {
+    "name": "Shaggy",
+    "breed": "Spaniel",
+    "image": "https://www.omlet.us/images/cache/512/341/Field-Spaniel-Outside.jpg",
+    "age": "13"
+  },
+    {
+    "name": "Odie",
+    "breed": "Shih Tzu",
+    "image": "https://www.petlanddunwoody.com/wp-content/uploads/2021/08/2121477_800.jpg",
+    "age": "3"
+  },
+    {
+    "name": "Brian",
+    "breed": "Labrador Retriever",
+    "image": "https://www.thefamilypethospital.com/sites/default/files/styles/large/public/labrador-retriever-dog-breed-info_0.jpg?itok=c44vI1gm",
+    "age": "11"
+  },
+    {
+    "name": "T-Bone",
+    "breed": "Bulldog",
+    "image": "https://post.bark.co/wp-content/uploads/2022/08/English-bulldog-FT-1024x683.jpg",
+    "age": "11"
+  },
+    {
+    "name": "Heen",
+    "breed": "Maltese",
+    "image": "https://c2.peakpx.com/wallpaper/477/187/814/pet-friend-dog-loyalty-play-spout-wallpaper.jpg",
+    "age": "8"
+  },
+    {
+    "name": "Frito",
+    "breed": "Dachshund",
+    "image": "https://ilovedachshunds.b-cdn.net/wp-content/uploads/2019/03/dachshund-fully-grown.jpg",
+    "age": "8"
+  },
+    {
+    "name": "Calico",
+    "breed": "Mountain Dogs",
+    "image": "https://www.ellevetsciences.com/wp-content/uploads/2022/07/ev-blog-BMD-header_2.jpg",
+    "age": "14"
+  },
+    {
+    "name": "Calliflower",
+    "breed": "Husky",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmkJvBYrwrFKGY4CVvIjAaO6DqfWxJE3m1g&usqp=CAU",
+    "age": "15"
+  },
+    {
+    "name": "Taco",
+    "breed": "Airedale Terrier",
+    "image": "https://media-be.chewy.com/wp-content/uploads/2021/06/16130914/AiredaleTerrier-FeaturedImage.jpg",
+    "age": "8"
+  },
+    {
+    "name": "Chicken",
+    "breed": "Maltese",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvTTpF2Yp9mlnn7TaGL98jWlroH_tGaZpg5g&usqp=CAU",
+    "age": "6"
+  },
+  {
+    "name": "Yamper",
+    "breed": "Corgi",
+    "image": "https://www.rover.com/blog/wp-content/uploads/2018/11/running-corgi-puppy.jpg",
+    "age": "4"
+  },
+  {
+    "name": "Pikachu",
+    "breed": "Golden Retriever",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUFditatscS_jQq7Yc_osgxdsd39tdpa24NMZEMWRjE4OeCIDXI323jBMmV-GZU9QBRuo&usqp=CAU",
+    "age": "4"
+  },
+  {
+    "name": "Temmi",
+    "breed": "Pomeranian",
+    "image": "https://cdn.britannica.com/41/233841-050-4FFECCF1/Pomeranian-dog.jpg",
+    "age": "5"
+  }
+]

@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background-color: #ffeeee;
+}
+
+* {
+  font-family: Roboto, sans-serif;
+}
+
+.dogContainer{
+  padding-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 2rem;
+  gap: 2rem;
+}
